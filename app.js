@@ -1,2 +1,2 @@
 console.log(hola mundo devops);
-consola.log(agrega login);
+consola.log("nuevo login");
